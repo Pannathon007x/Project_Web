@@ -9,7 +9,7 @@
 
       git branch -M main
 
-      git remote add origin https://github.com/EndFroZen/Project-flutter-in-subject.git
+      git remote add origin https://github.com/Pannathon007x/Project_Web.git
 
       git push -u origin main
 
