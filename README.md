@@ -1,3 +1,31 @@
+# Command github 
+- **No** .git in file
+  
+      git init
+
+      git add .
+
+      git commit -m "text someting"
+
+      git branch -M main
+
+      git remote add origin https://github.com/EndFroZen/Project-flutter-in-subject.git
+
+      git push -u origin main
+
+- **Have** .git in file
+  
+      git add .
+
+      git commit -m "text someting"
+
+      git branch -M main
+
+      git push -u origin main
+
+
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
