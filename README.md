@@ -13,30 +13,6 @@ pnpm dev
 # or
 bun dev
 ```
-- **No** .git in file
-  
-      git init
-
-      git add .
-
-      git commit -m "text someting"
-
-      git branch -M main
-
-      git remote add origin https://github.com/Pannathon007x/Project_Web.git
-
-      git push -u origin main
-
-- **Have** .git in file
-  
-      git add .
-
-      git commit -m "text someting"
-
-      git branch -M main
-
-      git push -u origin main
-
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
